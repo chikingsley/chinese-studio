@@ -1,0 +1,6 @@
+{
+  "name": "Hyperbook Studio",
+  "description": "Interactive open-source textbook workbench combining Hyperbook Markdown chapters, clickable glossary nodes, H5P Wordwall-style games, FSRS meta-flashcards, and AI textbook conversion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
